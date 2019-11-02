@@ -10,6 +10,7 @@
 <form action="http://localhost:9090/AssesmentProject/DisplayController" method="post">
 Enter Course Type: <input type="text" name="courseType" width="100px">
 <input type="submit" value="submit">
+<h1>Hello</h1>
 </form>
 </body>
 </html>
